@@ -1,1 +1,1 @@
-# Data-Structure-C-Programming-
+# Data Structure (C-Programming)
